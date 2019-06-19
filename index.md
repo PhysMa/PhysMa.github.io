@@ -1,5 +1,5 @@
 ---
-title: Eric Yue Ma
+
 ---
 
 # Test
