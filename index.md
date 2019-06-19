@@ -2,5 +2,4 @@
 
 ---
 
-# Test
-Hello world!!!
+Coming soon!
