@@ -9,51 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* B.S. in Physics, Peking University, 2010
+* Ph.D in Applied Physics, Stanford University, 2016
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research
+* Photonics Inverse Design & Quantum Optics
+  * Stanford University, 2018-present, with Jelena Vuckovic
+  * Creating Inverse-Designed (InvDes) 3D photonic structures for optical communications via physics simulation, optimization and 3D printing.
+  * Combining InvDes mid-/near-IR photonic structures and 2D materials for sensors, modulators and nano-lasers.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ultrafast Opto-electronics of 2D Materials
+  * Stanford University & SLAC, 2016-present, with Tony Heinz
+  * Probing ultrafast electron dynamics in 2D materials via laser-based time-domain THz spectroscopy and physics simulations.
+  * Building custom instruments and data analysis pipelines to probe optical properties of 2D materials from mid-IR to deep-UV.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Boundary/Domain-wall States in Quantum Materials via Near-field Microwave Microscopy
+  * Developed the first miliKelvin, time-resolved, optically-coupled and tuning-fork-based Microwave Impedance Microscopy (MIM) to non-invasively probe emerging electronic states in quantum materials with nanometer resolution.
+  * Discovered the first magnetic insulator with [metallic domain walls](https://newatlas.com/magnetic-insulator-memory-storage-slac/40166/) that can be used as new sensors and non-volatile memories.
+  
+## Skills
+* **Physics**: Deep understanding and extensive hands-on experience in light-matter interaction
+  * RF & Microwave
+  * THz & mmWave
+  * Mid-/Near-IR
+  * Visible & UV
+* **Programing**: Technical & general computer fluency
+  * Machine learning and Image processing
+  * Physics simulations: FDTD, FDFD, FEM, ray-tracing, transfer matrix, SPICE
+  * Python, Matlab, C++, Git, LabVIEW, CAD, SQL
+* **Complex problem solving**: Designing experiments, running simulations and analyzing data
+* **Rapid prototyping**: Opto-electronics/mechanics, analog/RF circuits, machining
+* **Communications**: Technical writing, reviewing and presenting for general and specialized audience
 
-Publications
-======
+## Selected Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Selected Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  * [Stanford Postdoc Teaching Certificate](https://postdocs.stanford.edu/events/series/postdoc-teaching-certificate), 2019
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Services and Others
+* Reviewd 80+ times for *Science, Nature Physics, Physical Review Letters, ACS Photonics, Nano Letters, Applied Physics Letters, Nature Communications, IEEE Trans. on Microwave Theory and Techniques*, etc.  
+* [Stanford Ignite](https://www.gsb.stanford.edu/exec-ed/programs/stanford-ignite), 2018 
+* Wrote 5+ proposals for NSF, DOE, DOD, etc.
+
