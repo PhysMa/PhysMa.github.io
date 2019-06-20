@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Eric Yue Ma"
 description              : &description "Applied Physicist"
