@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Applied Physicist"
   location         : "San Francisco Bay Area"
-  employer         :
+  employer         : "Stanford Univ. & SLAC"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z5ebbqQAAAAJ&hl=en"
-  email            :
+  email            : "yuema at stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ericyuema/"
   orcid            : "https://orcid.org/0000-0002-0539-1501"
   pinterest        :
   soundcloud       :
